@@ -76,3 +76,64 @@ body{
     line-height: 30px;
     padding: 5px 350px;
 }
+
+/* 3dlowers */
+
+.flowers{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    display: inline-flex;
+    gap: 24px;
+    margin: 50px 30px 50px; 
+   
+    
+}
+
+.flowers-1{
+    width: 400px;
+    height: 500px;
+    flex-shrink: 0;
+    border-radius: 200px 200px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.flowers-2{
+    width: 400px;
+    height: 500px;
+    flex-shrink: 0;
+    border-radius: 200px 200px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+.flowers-3{
+    width: 400px;
+    height: 500px;
+    flex-shrink: 0;
+    border-radius: 200px 200px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+.img2{
+    align-self: center;
+    margin: 110px 76px 78px 0px;
+    padding:  110px 76px 78px 0px;
+    align-content: center;
+}
+.text1{
+    display: inline-flex;
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    gap: 307px;
+    margin: 0px 150px auto 160px; 
+    padding-top: 0;
+    row-gap: 5px;
+  
+    }
