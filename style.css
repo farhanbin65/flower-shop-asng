@@ -137,3 +137,27 @@ body{
     row-gap: 5px;
   
     }
+
+    /* 4th-para */
+.fth-para{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
+    display: flex;
+    gap: 180px;
+    align-content: center;
+    margin:  40px 130px;
+    border-radius: 8px;
+    background-color: rgba(39, 39, 39, 0.05);
+    height: 300px;
+    flex-shrink: 0;
+        
+}
+.picndec{
+    align-content: center;
+    padding: 50px 40px;
+    align-content: center;
+    
+}
