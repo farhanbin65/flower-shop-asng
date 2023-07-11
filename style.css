@@ -33,6 +33,7 @@ body{
 .img1{
     margin: 50px 24px auto auto;
     flex-shrink: 0;
+
 }
 .primary{
     display: inline-flex;
@@ -49,3 +50,29 @@ body{
     line-height: normal;
     border: 0;
     }
+/* main-features style */
+.features{
+    font-family: Lato;
+    font-style: normal;
+    line-height: normal;
+    text-align: center;
+
+}
+.f-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 250px auto 24px;
+    margin: 150px auto 24px;
+}
+.f-description{
+    display: flex;
+    width: 594px;
+    flex-shrink: 0;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 5px 350px;
+}
